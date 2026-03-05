@@ -1,4 +1,0 @@
-Chocolate,199.75
-Rice,52.30
-Milk,80
-Bread,50
